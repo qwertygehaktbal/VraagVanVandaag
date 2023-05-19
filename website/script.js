@@ -50,7 +50,7 @@ function GetQuestion()
         // "Waar ben jij bang voor?",
         "Wat denk je dat er is na de dood?",
         "Wat is een onzekerheid waar je uit bent gegroeid?",
-        "Waar wil je over 12 maanden zijn? / wat wil je bereikt hebben in die periode? (Mag iets kleins of iets groots zijn)",
+        // "Waar wil je over 12 maanden zijn? / wat wil je bereikt hebben in die periode? (Mag iets kleins of iets groots zijn)",
         "Waar heb je op dit moment het meest moeite mee?",
         "Wat is iets wat je wilt dat meer mensen over je weten?",
         "Wat zou jij uit het verleden nu over jou denken?",
