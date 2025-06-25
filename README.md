@@ -24,5 +24,3 @@ Repository for my VraagVanVandaag Project
 - Daan 
     - Front-End Developer
     - Designer
-- Isa
-    - Back-End Developer
